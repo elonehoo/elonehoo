@@ -13,10 +13,11 @@
     "url": "https://github.com/elonehoo/elonehoo/issues"
   },
   "bin": {
-    "elonehoo":"./index.ts"
+    "elonehoo": "./index.ts"
   },
   "homepage": "https://github.com/elonehoo/elonehoo#readme",
   "devDependencies": {
+    "@types/node": "^17.0.23",
     "open": "^8.4.0"
   }
 }

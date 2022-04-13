@@ -1,12 +1,18 @@
 lockfileVersion: 5.3
 
 specifiers:
+  '@types/node': ^17.0.23
   open: ^8.4.0
 
 devDependencies:
+  '@types/node': 17.0.23
   open: 8.4.0
 
 packages:
+
+  /@types/node/17.0.23:
+    resolution: {integrity: sha512-UxDxWn7dl97rKVeVS61vErvw086aCYhDLyvRQZ5Rk65rZKepaFdm53GeqXaKBuOhED4e9uWq34IC3TdSdJJ2Gw==}
+    dev: true
 
   /define-lazy-prop/2.0.0:
     resolution: {integrity: sha512-Ds09qNh8yw3khSjiJjiUInaGX9xlqZDY7JVryGxdxV7NPeuqQfplOpQ66yJFZut3jLa5zOwkXw1g9EI2uKh4Og==}
