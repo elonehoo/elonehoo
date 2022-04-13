@@ -1,0 +1,22 @@
+{
+  "name": "elonehoo",
+  "version": "0.0.1",
+  "description": "Hi, I am Elone Hoo",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elonehoo/elonehoo.git"
+  },
+  "author": "Elone Hoo <huchengyea@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elonehoo/elonehoo/issues"
+  },
+  "bin": {
+    "elonehoo":"./index.ts"
+  },
+  "homepage": "https://github.com/elonehoo/elonehoo#readme",
+  "devDependencies": {
+    "open": "^8.4.0"
+  }
+}
