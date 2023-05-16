@@ -1,17 +1,17 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@types/node': ^17.0.23
+  '@types/node': ^18.16.12
   open: ^9.1.0
 
 devDependencies:
-  '@types/node': 17.0.23
+  '@types/node': 18.16.12
   open: 9.1.0
 
 packages:
 
-  /@types/node/17.0.23:
-    resolution: {integrity: sha512-UxDxWn7dl97rKVeVS61vErvw086aCYhDLyvRQZ5Rk65rZKepaFdm53GeqXaKBuOhED4e9uWq34IC3TdSdJJ2Gw==}
+  /@types/node/18.16.12:
+    resolution: {integrity: sha512-tIRrjbY9C277MOfP8M3zjMIhtMlUJ6YVqkGgLjz+74jVsdf4/UjC6Hku4+1N0BS0qyC0JAS6tJLUk9H6JUKviQ==}
     dev: true
 
   /big-integer/1.6.51:
