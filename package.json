@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/elonehoo/elonehoo#readme",
   "devDependencies": {
-    "@types/node": "^17.0.23",
+    "@types/node": "^18.16.12",
     "open": "^9.1.0"
   }
 }
