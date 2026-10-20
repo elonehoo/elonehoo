@@ -2,6 +2,11 @@
   "name": "elonehoo",
   "version": "0.0.1",
   "description": "Hi, I am Elone Hoo",
+  "type": "module",
+  "packageManager": "pnpm@10.34.7",
+  "engines": {
+    "node": ">=20"
+  },
   "main": "index.ts",
   "repository": {
     "type": "git",
@@ -16,8 +21,10 @@
     "elonehoo": "./index.ts"
   },
   "homepage": "https://github.com/elonehoo/elonehoo#readme",
+  "dependencies": {
+    "open": "^11.0.4"
+  },
   "devDependencies": {
-    "@types/node": "^18.16.12",
-    "open": "^9.1.0"
+    "@types/node": "^24.19.2"
   }
 }
